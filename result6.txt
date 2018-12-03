@@ -1,0 +1,390 @@
+CNF-SAT-VC: 0 1 2 
+APPROX-VC-1: 0 1 2 
+APPROX-VC-2: 0 1 2 4 
+CNF-SAT-VC:
+0 secs
+753281 ns
+VC-1:
+0 secs
+85140 ns
+VC-2:
+0 secs
+91411 ns
+
+CNF-SAT-VC: 0 1 
+APPROX-VC-1: 0 1 
+APPROX-VC-2: 0 1 2 4 
+CNF-SAT-VC:
+0 secs
+341610 ns
+VC-1:
+0 secs
+36720 ns
+VC-2:
+0 secs
+41020 ns
+
+CNF-SAT-VC: 0 1 
+APPROX-VC-1: 0 1 
+APPROX-VC-2: 0 1 2 3 
+CNF-SAT-VC:
+0 secs
+311000 ns
+VC-1:
+0 secs
+74140 ns
+VC-2:
+0 secs
+63780 ns
+
+CNF-SAT-VC: 0 1 2 
+APPROX-VC-1: 0 1 2 
+APPROX-VC-2: 0 1 2 3 
+CNF-SAT-VC:
+0 secs
+636901 ns
+VC-1:
+0 secs
+76740 ns
+VC-2:
+0 secs
+61370 ns
+
+CNF-SAT-VC: 0 1 
+APPROX-VC-1: 0 1 
+APPROX-VC-2: 0 1 2 4 
+CNF-SAT-VC:
+0 secs
+290171 ns
+VC-1:
+0 secs
+74630 ns
+VC-2:
+0 secs
+63330 ns
+
+CNF-SAT-VC: 0 1 
+APPROX-VC-1: 0 1 
+APPROX-VC-2: 0 1 3 4 
+CNF-SAT-VC:
+0 secs
+318700 ns
+VC-1:
+0 secs
+42970 ns
+VC-2:
+0 secs
+41960 ns
+
+CNF-SAT-VC: 0 1 2 
+APPROX-VC-1: 0 1 2 
+APPROX-VC-2: 1 2 3 4 
+CNF-SAT-VC:
+0 secs
+666741 ns
+VC-1:
+0 secs
+38440 ns
+VC-2:
+0 secs
+44400 ns
+
+CNF-SAT-VC: 0 1 
+APPROX-VC-1: 0 1 
+APPROX-VC-2: 0 1 3 4 
+CNF-SAT-VC:
+0 secs
+340960 ns
+VC-1:
+0 secs
+45780 ns
+VC-2:
+0 secs
+73800 ns
+
+CNF-SAT-VC: 0 1 2 
+APPROX-VC-1: 0 1 2 
+APPROX-VC-2: 0 1 3 4 
+CNF-SAT-VC:
+0 secs
+622541 ns
+VC-1:
+0 secs
+78900 ns
+VC-2:
+0 secs
+55330 ns
+
+CNF-SAT-VC: 0 1 2 
+APPROX-VC-1: 0 1 2 
+APPROX-VC-2: 0 1 2 3 
+CNF-SAT-VC:
+0 secs
+592890 ns
+VC-1:
+0 secs
+33000 ns
+VC-2:
+0 secs
+57750 ns
+
+CNF-SAT-VC: 0 1 2 3 4 5 
+APPROX-VC-1: 0 1 2 3 4 5 
+APPROX-VC-2: 0 1 2 3 4 6 7 8 
+CNF-SAT-VC:
+0 secs
+79158339 ns
+VC-1:
+0 secs
+42380 ns
+VC-2:
+0 secs
+64760 ns
+
+CNF-SAT-VC: 0 1 2 4 5 
+APPROX-VC-1: 0 1 2 4 5 
+APPROX-VC-2: 0 1 3 4 5 6 7 9 
+CNF-SAT-VC:
+0 secs
+16110316 ns
+VC-1:
+0 secs
+70120 ns
+VC-2:
+0 secs
+71230 ns
+
+CNF-SAT-VC: 1 4 5 6 
+APPROX-VC-1: 0 1 2 4 5 
+APPROX-VC-2: 0 1 2 3 4 5 6 8 
+CNF-SAT-VC:
+0 secs
+4743315 ns
+VC-1:
+0 secs
+75240 ns
+VC-2:
+0 secs
+76770 ns
+
+CNF-SAT-VC: 0 1 3 8 9 
+APPROX-VC-1: 0 1 3 4 9 
+APPROX-VC-2: 0 1 2 3 4 5 6 9 
+CNF-SAT-VC:
+0 secs
+13877854 ns
+VC-1:
+0 secs
+40880 ns
+VC-2:
+0 secs
+56590 ns
+
+CNF-SAT-VC: 0 1 2 5 
+APPROX-VC-1: 0 1 2 5 
+APPROX-VC-2: 0 1 2 5 7 8 
+CNF-SAT-VC:
+0 secs
+3283903 ns
+VC-1:
+0 secs
+39310 ns
+VC-2:
+0 secs
+55110 ns
+
+CNF-SAT-VC: 0 1 2 3 6 9 
+APPROX-VC-1: 0 1 2 4 5 8 
+APPROX-VC-2: 0 1 2 4 5 7 8 9 
+CNF-SAT-VC:
+0 secs
+99544288 ns
+VC-1:
+0 secs
+34090 ns
+VC-2:
+0 secs
+92400 ns
+
+CNF-SAT-VC: 0 1 2 3 4 5 
+APPROX-VC-1: 0 1 2 3 4 5 
+APPROX-VC-2: 0 1 2 3 4 5 6 7 8 9 
+CNF-SAT-VC:
+0 secs
+69804470 ns
+VC-1:
+0 secs
+39300 ns
+VC-2:
+0 secs
+72030 ns
+
+CNF-SAT-VC: 0 1 3 8 
+APPROX-VC-1: 0 1 3 8 
+APPROX-VC-2: 0 1 3 4 6 7 8 9 
+CNF-SAT-VC:
+0 secs
+3129483 ns
+VC-1:
+0 secs
+47660 ns
+VC-2:
+0 secs
+67660 ns
+
+CNF-SAT-VC: 0 1 2 4 9 
+APPROX-VC-1: 0 1 2 4 6 
+APPROX-VC-2: 0 1 2 3 4 5 6 9 
+CNF-SAT-VC:
+0 secs
+7218147 ns
+VC-1:
+0 secs
+40740 ns
+VC-2:
+0 secs
+62410 ns
+
+CNF-SAT-VC: 0 3 4 5 8 
+APPROX-VC-1: 1 3 4 5 8 
+APPROX-VC-2: 1 3 4 5 6 7 8 9 
+CNF-SAT-VC:
+0 secs
+17829657 ns
+VC-1:
+0 secs
+75610 ns
+VC-2:
+0 secs
+65120 ns
+
+CNF-SAT-VC: 0 1 4 5 6 8 11 12 
+APPROX-VC-1: 0 1 4 5 7 8 9 10 
+APPROX-VC-2: 0 1 3 4 5 6 8 9 10 11 12 13 
+CNF-SAT-VC:
+9 secs
+114393388 ns
+VC-1:
+0 secs
+40510 ns
+VC-2:
+0 secs
+78340 ns
+
+CNF-SAT-VC: 0 1 2 4 5 8 10 14 
+APPROX-VC-1: 0 1 2 4 5 8 10 14 
+APPROX-VC-2: 0 1 2 4 6 7 8 10 11 14 
+CNF-SAT-VC:
+14 secs
+185788296 ns
+VC-1:
+0 secs
+43600 ns
+VC-2:
+0 secs
+97520 ns
+
+CNF-SAT-VC: 0 1 2 3 6 7 10 
+APPROX-VC-1: 0 1 2 3 6 7 10 
+APPROX-VC-2: 0 1 2 3 4 5 7 8 9 10 12 14 
+CNF-SAT-VC:
+0 secs
+895193035 ns
+VC-1:
+0 secs
+76190 ns
+VC-2:
+0 secs
+81330 ns
+
+CNF-SAT-VC: 2 3 4 6 7 10 11 12 
+APPROX-VC-1: 2 3 4 6 7 8 10 11 
+APPROX-VC-2: 0 3 4 5 6 7 8 10 11 12 13 14 
+CNF-SAT-VC:
+31 secs
+506200913 ns
+VC-1:
+0 secs
+41270 ns
+VC-2:
+0 secs
+111670 ns
+
+CNF-SAT-VC: 0 1 3 5 7 8 11 
+APPROX-VC-1: 0 1 3 5 7 8 11 
+APPROX-VC-2: 0 1 2 3 4 5 8 9 11 12 13 14 
+CNF-SAT-VC:
+0 secs
+981458581 ns
+VC-1:
+0 secs
+72630 ns
+VC-2:
+0 secs
+108380 ns
+
+CNF-SAT-VC: 0 1 4 6 7 11 
+APPROX-VC-1: 0 1 4 6 7 10 
+APPROX-VC-2: 0 1 3 4 6 7 10 11 
+CNF-SAT-VC:
+0 secs
+75002585 ns
+VC-1:
+0 secs
+38180 ns
+VC-2:
+0 secs
+76900 ns
+
+CNF-SAT-VC: 0 1 3 7 8 13 14 
+APPROX-VC-1: 0 1 2 3 4 5 6 8 
+APPROX-VC-2: 0 1 2 3 4 5 7 8 11 12 13 14 
+CNF-SAT-VC:
+0 secs
+850637040 ns
+VC-1:
+0 secs
+42760 ns
+VC-2:
+0 secs
+93820 ns
+
+CNF-SAT-VC: 0 1 2 3 4 5 7 
+APPROX-VC-1: 0 1 2 3 4 5 7 
+APPROX-VC-2: 0 1 2 3 4 5 6 7 9 10 11 14 
+CNF-SAT-VC:
+0 secs
+960527489 ns
+VC-1:
+0 secs
+37120 ns
+VC-2:
+0 secs
+106771 ns
+
+CNF-SAT-VC: 0 1 2 3 7 10 11 12 
+APPROX-VC-1: 0 1 2 3 7 10 11 12 
+APPROX-VC-2: 0 1 3 4 5 7 8 9 10 11 12 13 
+CNF-SAT-VC:
+16 secs
+950363066 ns
+VC-1:
+0 secs
+38690 ns
+VC-2:
+0 secs
+84270 ns
+
+CNF-SAT-VC: 0 1 2 3 4 6 7 14 
+APPROX-VC-1: 0 1 2 3 4 6 7 10 
+APPROX-VC-2: 0 1 2 3 6 7 8 9 10 11 12 14 
+CNF-SAT-VC:
+22 secs
+235350669 ns
+VC-1:
+0 secs
+41400 ns
+VC-2:
+0 secs
+127780 ns
+
