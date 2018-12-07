@@ -1,0 +1,26 @@
+CNF-SAT-VC: 0 
+APPROX-VC-1: 0 
+APPROX-VC-2: 0 1 
+CNF-SAT-VC:
+0 secs
+574670 ns
+VC-1:
+0 secs
+140530 ns
+VC-2:
+0 secs
+125900 ns
+
+CNF-SAT-VC: 0 19 
+APPROX-VC-1: 0 19 
+APPROX-VC-2: 0 1 10 19 
+CNF-SAT-VC:
+0 secs
+1531762 ns
+VC-1:
+0 secs
+41730 ns
+VC-2:
+0 secs
+49281 ns
+
